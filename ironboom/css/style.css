@@ -23,7 +23,7 @@
 
 .article b {
   text-align: left;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .article {
@@ -46,7 +46,7 @@
   width: auto;
   text-align: center;
   font-family: "Nunito Sans", sans-serif;
-  font-size: 14px;
+  font-size: 21px;
 }
 
 a {
@@ -69,14 +69,14 @@ article a:hover {
 
 article b {
   text-align: left;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 article {
   background-color: #e5e5e5;
   padding: 10px;
-  margin-bottom: 20px;
-  width: 780px;
+  margin: 0px 20px 20px 20px;
+  width: auto;
   text-align: left;
 }
 
@@ -116,7 +116,7 @@ img.font {
 input {
   background: none;
   border: none;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 main {
